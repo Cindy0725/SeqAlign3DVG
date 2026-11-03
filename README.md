@@ -2,7 +2,7 @@
 
 Implementation of **SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding**, ACM Multimedia, 2026.
 
-[Paper](https://doi.org/10.1145/3767308.3835644)
+[Paper](https://arxiv.org/abs/2608.30451)
 
 SeqAlign3DVG introduces an observation-aligned benchmark for single-view and observation-sequence 3D visual grounding. The model combines Relevance-Ordered Voxel Memory (ROVM) with Progressive Language-Voxel Fusion (PLVF) to localize objects from RGB observations, camera parameters, and referring expressions.
 
